@@ -4,7 +4,7 @@
 - **Step 1:** Ensure that all Java classes are in the same file or package.
 - **Step 2:** The application requires JavaFX to run. Ensure that JavaFX is correctly installed and configured in your development environment.
 - **Step 3:** Open a new terminal on intellij
-- **Step 4:** Enter this command " cd Retro_Game "
+- **Step 4:** Enter this command " cd ElHansyWalid_intellij_11.0.25 "
 - **Step 5:** Then proceed to Enter this command " mvn javafx:run "
 
 ## Implemented Features that function 
